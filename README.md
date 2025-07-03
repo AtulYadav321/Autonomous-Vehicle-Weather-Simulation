@@ -45,21 +45,8 @@ The goal is to analyze how different deep learning models respond to visual degr
 - **GAN preprocessing + Advanced CNN** achieved the best real-time inference
 - Trained on **DGX A100** and tested on **RTX 3060**, avg inference < 100ms
 
----
-
 ## 📊 Sample Visuals
+---![Screenshot 2025-07-03 081125](https://github.com/user-attachments/assets/bdeb7e5a-6113-47aa-a7c5-05abef653c51)
+![Screenshot 2025-07-03 081147](https://github.com/user-attachments/assets/b1cce08f-50cc-4565-a537-e8fc77fe7d7c)
+![Screenshot 2025-07-03 081218](https://github.com/user-attachments/assets/db707dcb-1bff-4c83-a8ac-e4160d104a56)
 
-> _(Add 2–3 images or a `.gif` from your presentation/PDF showing model output, weather scenes, etc.)_  
-> You can use: `/media/weather_fog.png`, `/media/output_model.gif`
-
----
-
-## 📁 Repository Structure
-
-```bash
-├── data/               # Sample preprocessed dataset (small version)
-├── models/             # Trained weights or architecture scripts
-├── preprocessing/      # CLAHE, GAN scripts
-├── evaluation/         # Accuracy, route-completion analysis
-├── media/              # Screenshots, graphs, demo GIFs
-└── README.md           # This file
