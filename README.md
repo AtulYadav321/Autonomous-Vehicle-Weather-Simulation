@@ -50,3 +50,18 @@ The goal is to analyze how different deep learning models respond to visual degr
 ![Screenshot 2025-07-03 081147](https://github.com/user-attachments/assets/b1cce08f-50cc-4565-a537-e8fc77fe7d7c)
 ![Screenshot 2025-07-03 081218](https://github.com/user-attachments/assets/db707dcb-1bff-4c83-a8ac-e4160d104a56)
 
+Dataset :
+![Screenshot 2025-07-03 083919](https://github.com/user-attachments/assets/e7e58482-9412-4a47-b2b7-8d52745bb97d)
+![Screenshot 2025-07-03 084314](https://github.com/user-attachments/assets/341af1a2-12bc-4df2-bac2-456ebaba61ed)
+
+Analysis:
+![Screenshot 2025-07-03 083954](https://github.com/user-attachments/assets/5c3613c9-832c-41a8-a68a-97dc3abb4601)
+
+Flowchart:
+![Screenshot 2025-07-03 084042](https://github.com/user-attachments/assets/129b453b-17a3-41f2-b614-a8989466fe0a)
+
+Architecture Diagram:
+![Screenshot 2025-07-03 084016](https://github.com/user-attachments/assets/489fb314-1a1f-407a-bd73-7311108bfaee)
+
+
+
